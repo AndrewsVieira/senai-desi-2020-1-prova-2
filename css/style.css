@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(236, 227, 227);
+}
+header {
+    background-color: rgb(218, 210, 210);
+    background-size: 0%;
+    border-radius: 5pt;
+}
+img#logo{
+    height: 50pt;
+    width: 50pt;
+    margin-left: 0.3cm;
+    margin-top: 0.3cm;
+    margin-bottom: 0.3cm;
+}
+p#nomeHospital {
+    font-size: 35pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(80, 80, 80); 
+}
+img.img-fluid {
+    width: 100%;
+    height: 550px;
+}
+div.corPreta {
+    color: black;
+}
+img.perfilMedico {
+    width: 100px;
+    height: 130px;
+    float: right;
+}
+div.card {
+    border-radius: 5pt;
+    padding: 1cm;
+    margin-top: 1cm;
+}
+h2 {
+    margin-top: 1cm;
+    font-family: Segoe UI Black;
+}
+table.table {
+    margin-top: 1cm;
+}
+img.card-img-top {
+    width: 4cm;
+    height: 3cm;
+}
+div.card-pg-indexHorarios {
+    padding: 1pt;
+    margin-top: 1pt;
+}
+form {
+    margin-top: 1cm;
+    width: 70%;
+}
+img.imgTrabalheConosco {
+    border-radius: 5pt;
+}
+nav.navbar{
+    margin-top: 0.5cm;
+    margin-right: 1cm;
+    border-radius: 5pt;
+}
